@@ -1,2 +1,0 @@
-# VISATHON
-Description of datasets
