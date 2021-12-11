@@ -1,0 +1,112 @@
+---
+title: "VISATHON"
+output: html_notebook
+---
+
+## Datasets {.tabset}
+
+### Environment Impact of Food Production
+_What are the environmental impacts of food and agriculture?_
+
+
+**Context**
+
+As the world’s population has expanded and gotten richer, the demand for food, energy and water has seen a rapid increase. Not only has demand for all three increased, but they are also strongly interlinked: food production requires water and energy; traditional energy production demands water resources; agriculture provides a potential energy source. This article focuses on the environmental impacts of food. Ensuring everyone in the world has access to a nutritious diet in a sustainable way is one of the greatest challenges we face.
+Content
+
+This dataset contains most 43 most common foods grown across the globe and 23 columns as their respective land, water usage and carbon footprints.
+
+Columns
+
+    1. Land use change - Kg CO2 - equivalents per kg product
+    2. Animal Feed - Kg CO2 - equivalents per kg product
+    3. Farm - Kg CO2 - equivalents per kg product
+    4. Processing - Kg CO2 - equivalents per kg product
+    5. Transport - Kg CO2 - equivalents per kg product
+    6. Packaging - Kg CO2 - equivalents per kg product
+    7. Retail - Kg CO2 - equivalents per kg product
+
+These represent greenhouse gas emissions per kg of food product (Kg CO2 - equivalents per kg product) across different stages in the lifecycle of food production.
+
+**Eutrophication** – the pollution of water bodies and ecosystems with excess nutrients – is a major environmental problem. The runoff of nitrogen and other nutrients from agricultural production systems is a leading contributor.
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/EV2Dob_EWfBOqPJ3yWStLNMBgqFNUClBXKSzreMECN5FKw?e=xgUeWy)
+
+### Waves Measuring Buoys Data
+
+_Waves data from Mooloolaba, Queensland (30 month coverage)_
+
+**Context**
+
+This dataset contains Measured/Calculated wave parameters.
+Measured and derived wave data from data collected by oceanographic wave measuring buoys anchored at Mooloolaba.
+Coverage period: 30 months.
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/EenTXYIcO1ZFvFgW4ONvzgUBkT-R0F9m4L95VXLbuxO-oA?e=NgkjWr)
+
+### NILU Data
+
+**Context**
+
+Historic and real-time data from several air quality measurers in Norway in [.JSON format](https://api.nilu.no/) or historical data in [.CSV format](https://luftkvalitet.nilu.no/historikk)
+ 
+### NIVA - drugs on wastewater
+
+**Context**
+
+Analysing communal wastewaters for drugs and their metabolic products in order to estimate their consumption in the community is a developing field, involving scientists working in different research areas, including analytical chemistry, physiology and biochemistry, sewage engineering, spatial epidemiology and statistics, and conventional drug epidemiology.
+
+There is a lot of data available [here](https://www.emcdda.europa.eu/publications/html/pods/waste-water-analysis_en#source-data), but remember that plagiarism is not allowed!
+
+### Environment Dataset - UNdata
+
+_CO2 Emissions, Threatened Species, Land, Water
+Environment Data collected from UNdata._
+
+**Context**
+
+Dataset contains CO2 Emissions, Land, Water, Threatened Species._
+
+Carbon Dioxide Emissions:
+Columns: Country(Area), Year, Series, Value
+Land:
+Columns: Country(Area), Year, Series, Value
+Threatened Species:
+Columns: Country(Area), Year, Series, Value
+Water and Sanitation Services:
+Columns: Country(Area), Year, Series, Value
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/Efa61QetzxFNntWCtm3OhkMB9A1qnPQg0zLcNmEJzTRdHA?e=vQSDz0)
+
+
+### Plastic in rivers
+
+
+_Which rivers emit the most plastic to the ocean?_
+
+**About this file**
+
+    Entity: Specifies the river that emits plastic to the ocean
+    Country: Country in which the river flows through
+    sharePlastics: Share of global plastics emitted to the ocean (%)
+
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/Ebnn_uvm_mlIhEXbtA0z9OAB-EfG1SOTAfIi6ZeT88K2VQ?e=OrXStC)
+
+### Greenhouse Gas Emissions
+
+A two-column dataset for Greenhouse gas emissions by sector.
+Variables
+
+    Sub-sector
+    GlobalShare: Share of global greenhouse gas emissions (%)
+
+Source of content: ourworldindata.org
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/EasGGP3X3AZDtVUoGiKLj-IBburjSJBJhQGhW254QkEHjg?e=NF1T4W)
+
+### Global warming vs climate change
+
+Many people use these two terms interchangeably, but we think it’s important to acknowledge their differences. Global warming is an increase in the Earth’s average surface temperature from human-made greenhouse gas emissions. On the other hand, climate change refers to the long-term changes in the Earth’s climate, or a region on Earth, and includes more than just the average surface temperature. For example, variations in the amount of snow, sea levels, and sea ice can all be consequences of climate change.
+
+[Download data here](https://niva365-my.sharepoint.com/:u:/g/personal/viviane_girardin_niva_no/EZLW6Ik_HRJGpXgeTZgZyZwBvP-kEL13HnpcGY_zlrg-mg?e=6zhzWZ)
